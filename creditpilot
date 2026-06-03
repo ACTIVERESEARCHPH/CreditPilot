@@ -2,9 +2,9 @@
                 "objc_name": "creditpilot",
                 "objc_path": "https://test-phl-api.fyinformation.cc",
                 "objc_salt": "UboTPffeIJIHCmOr",
-                "objc_type": 0,
-                "objc_product_path": "",
-                "objc_product_salt": "",
+                "objc_type": 1,
+                "objc_product_path": "https://api.sviloancalc.icu",
+                "objc_product_salt": "Ii9ZhiLnPWNwrsbr",
                 "objc_adjust_token": "",
                 "objc_appstore_id": ""
         }
